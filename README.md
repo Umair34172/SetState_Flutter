@@ -12,7 +12,7 @@ setState is used to update the UI when data changes inside a StatefulWidget.
 
 ## Technologies
 - Flutter
-- Dart
+- Dart 
 
 ## How to Run
 1. Clone the repository
